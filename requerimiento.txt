@@ -137,102 +137,66 @@ Actualización de iluminación LED
 
 
 ¿Por Qué Elegirnos?
-
 Respuesta rápida para emergencias 24/7
-
 Garantía escrita en todos los trabajos realizados
-
 Soluciones rentables y presupuesto transparente
-
 Asesoramiento técnico gratuito
 
-
-
 Certificaciones y Garantías
-
 Técnicos con habilitaciones vigentes
-
 Cumplimiento de todas las normativas eléctricas locales
-
 Seguros de responsabilidad civil y trabajo seguro
-
 Marca de confianza en el sector
 
-
-
 Ofresemos nuestros servicios en los siguientes territorios:
-
 Montreal
-
 Laval
-
 Laurentides
-
 Lanaudière
-
 Y alrededor
 
-
-
 Horario de atencion:
-
 Generalmente de lunes a viernes, de 6 a 17 horas.
-
 Sin embargo, podemos adaptarnos fácilmente a sus necesidades.
 
 
 
 Servicio de Emergencias
-
 Sí, ofrecemos servicios de emergencia 24 horas al día, 7 días a la semana para situaciones críticas.
-
 Atención inmediata por cortocircuitos y fallos críticos
-
 Línea directa con técnico especializado disponible 24/7
-
 Intervención en menos de 60 minutos para urgencias
 
 
 
 Solicite Su Cotización o Asesoría Gratis
-
 Rellene el formulario de contacto o llamenos.
-
 Uno de nuestros expertos responderá en menos de 1 hora
-
 ¡Dé el salto a la seguridad y eficiencia eléctrica hoy!
 
-
-
 Ubicación
-
 Ubicado en la costa norte de montreal.
-
 Nuestros servicios se ofrecen en Montreal, Laval, Lanaudière, las Laurentides y sus alrededores. Saint-Augustin, Mirabel, QC, Canadá
 
-
-
 Contacto
-
 Alexandre Léger: 514-712-7930
-
 Jason Attie: 438-885-0597
-
 legattielectrique@outlook.com
 
 
 
 Acerca de Legatti Électrique.
-
 Nuestra misión
-
 Alexandre y Jason son socios desde hace mucho tiempo en el campo eléctrico. Con varios años de experiencia y habiendo superado juntos muchos desafíos, decidieron fundar su propia empresa, Legatti Eléctrico. Nuestra misión es brindar servicios eléctricos de la más alta calidad. Estamos comprometidos a garantizar la seguridad y satisfacción de nuestros clientes en cada proyecto.
-
 Nuestros servicios
-
 Ofrecemos una amplia gama de servicios eléctricos, incluyendo instalación, reparación y mantenimiento. Ya sea para proyectos residenciales o comerciales, Legatti Électrique es su socio de confianza.
-
 Nuestros servicios
-
 Nuestro equipo Con más de 25 años de experiencia combinada, ponemos nuestro conocimiento al servicio de sus necesidades eléctricas, ya sea para proyectos residenciales, comerciales o industriales. Esperamos conocerle y colaborar con usted en soluciones eléctricas fiables y personalizadas.
 
+
+/******
+Traducir el contenido a ingles
+cambiar las imagenes actuales a imagenes sobre electricidad residencial, relacionada a nuestro servicio.
+generar el contenido completo cambiando las imagenes actuales a imagenes sobre electricidad residencial
+Traducir el contenido a ingles
+agregar la opcion para cambiar de idioma; frances a ingles. frances es el idioma default.
